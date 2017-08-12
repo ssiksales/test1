@@ -326,7 +326,7 @@
                 casttype: "instant",
                 baselevel: 3,
                 cooldown: 1,
-                maxrange: 1.5,
+                maxrange: 50,
                 simulate: !0,
                 effect: function() {
                     mb.damage({
